@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_2e40839daec1e8cca3437022b57a50e35ab18f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_5ee83a275716d2c085b7c55f87fc9129c5669562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_593c1ddff511c5d73ff2a4fbd893bbaf054c5776/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_131e288a93532db8bc596825c5c6865cf3657a24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_6c6e88d4979e57fde020f03d545487951476e9f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.async-androidasync-2.1.9_0ca0f6360a667047902bb0f62a486511dce75823/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_36d9ba15ee192977a17156915822c75702b73255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.ion-ion-2.1.9_d32464951c33ee6e31c71f4bfca0dc160628b8cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_5f61dc9a184d60fc8785283cfe97ce254cffa75c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1a43c9ac2f91bf25efa24163485f6f54e9bc53c5">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0cc9630b788772d028bdd647c576cbe17f57ee43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/19.0/6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9/guava-19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-19.0_03d0c79a4a4ae9f38ffb895dbd13263931b9b2d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_9f51eeed5c5230f16b4232e0447125662ea5a1f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8f69e2fe9f780e9640da53a3694c2dee41d2c5b6">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a647262279643dbd570a8903e40a1e31bd494612/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aleemakhund/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/aleemakhund/Desktop/shopback/hackernews/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_38000816786b2c8f00f1b0adf69f63866acfaa1b/classes.dex" />
+    </item>
+
+</items>

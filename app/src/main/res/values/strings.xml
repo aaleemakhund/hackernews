@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hacker News</string>
+    <string name="splash_text_hacker_news">Hacker News</string>
+    <string name="story_points">%d points</string>
+    <string name="by_text">by %s</string>
+</resources>
